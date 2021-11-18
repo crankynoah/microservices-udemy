@@ -354,3 +354,8 @@ C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net
 C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\ref\Mango.Web.dll
 C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Mango.Web.pdb
 C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Mango.Web.genruntimeconfig.cache
+C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Razor\Views\Product\ProductIndex.cshtml.g.cs
+C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Razor\Views\Product\ProductCreate.cshtml.g.cs
+C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Razor\Views\Product\ProductEdit.cshtml.g.cs
+C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Razor\Views\Product\ProductDelete.cshtml.g.cs
