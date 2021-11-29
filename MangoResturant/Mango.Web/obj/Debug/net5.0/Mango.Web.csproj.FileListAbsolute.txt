@@ -367,3 +367,4 @@ C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net
 C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\ref\Mango.Web.dll
 C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Mango.Web.pdb
 C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Mango.Web.genruntimeconfig.cache
+C:\Development\Goofin\microservices-udemy\MangoResturant\Mango.Web\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
